@@ -1,12 +1,29 @@
-# Video access with Asciidoc
+= Video access Through GIT repository
+
+The option tested are the following
+
+* Using asciidoc (this file)
+* Using markdown link:readme.md[link]
+* Using markdeep link:readme_markdeep.md.html[link]
+
+It does not seem possible to render video directly onto the Github visualisation of the pages.
+But both are able to handle animated gif.
+The limitation of the animated gif is that there is no way to manipulate live the video (pause /rewind)
+
+link:https://casual-effects.com/markdeep/[Markdeep] is a tool based on markdown, which is directly rendered in most of the web browser.
+The positive point is that anyone can render it onto its machine with no particular installation.
+The drawback is that it is not rendered within the GitHub interface.
+
+
+== Trial with asciidoc:
 
 Video trial
 
 video::video.mp4[Video attempt]
 
-Done
+Done (if nothing appears, it means it does not work
 
-Now with an image:
+Now with an animated gif:
 
 image::video.gif[Animated gif]
 

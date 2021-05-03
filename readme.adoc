@@ -1,7 +1,16 @@
 # Video access with Asciidoc
 
-Here it is: 
+Video trial
 
-video::video.mp4[]
+video::video.mp4[Video attempt]
 
 Done
+
+Now with an image:
+
+image::video.gif[Animated gif]
+
+Done
+
+
+

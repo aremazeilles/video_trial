@@ -17,15 +17,20 @@ The drawback is that it is not rendered within the GitHub interface.
 
 == Trial with asciidoc:
 
+Documentation on video insertion with link:https://docs.asciidoctor.org/asciidoc/latest/macros/audio-and-video/#video-macro-syntax[asciidoc].
+
+
 Video trial
 
 video::video.mp4[Video attempt]
 
-Done (if nothing appears, it means it does not work
+Done (if nothing appears, it means it does not work, or is not rendered into Github.
 
 Now with an animated gif:
 
 image::video.gif[Animated gif]
+
+According to link:https://stackoverflow.com/questions/62533346/asciidoc-how-to-embed-youtube-videos-in-github-flavored-asciidoc[this link], it seems Github prevents the load of videos.
 
 Done
 

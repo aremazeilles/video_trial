@@ -1,2 +1,7 @@
 # Video access with Asciidoc
 
+Here it is: 
+
+video::video.mp4[]
+
+Done

@@ -17,3 +17,10 @@ Following [gitlab doc](https://about.gitlab.com/handbook/markdown-guide/#videos)
     <source src="video.mp4" type="video/mp4">
   </video>
 </figure>
+
+
+Trying to handle image dimension:
+
+<video width="640" height="480" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>

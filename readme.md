@@ -10,3 +10,10 @@ Using he animated gif:
 
 ![The animation](video.gif)
 
+Following [gitlab doc](https://about.gitlab.com/handbook/markdown-guide/#videos):
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="video.mp4" type="video/mp4">
+  </video>
+</figure>
